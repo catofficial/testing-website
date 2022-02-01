@@ -1,0 +1,82 @@
+<html>
+
+
+    
+    <style>
+        body {
+            font-family: cursive;
+        }
+        
+    </style>  <!---font--->
+    
+    <head>
+        <meta charset="utf-8">
+        <title> cat hoem paeg</title>
+    </head>    <!---the kahn title--->
+    
+    <body>
+<style>body{ 
+            background-color: LightPink; 
+        }</style> 
+
+    </body>    <!---background (color)---> 
+    
+    <body>
+     <h1>cat hoem paeg - ver 2. </h1> 
+     
+    </body>    <!---heading--->
+    
+    <body> 
+     
+    <h3>professional idiot, artist, coder (somewhat)</h3> 
+    
+        
+    </body>    <!---sub-heading--->
+    
+    <body> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cat_Yawning.jpg/640px-Cat_Yawning.jpg" alt="cat" width = "180" >
+    </body>    <!---cat image--->
+    
+    <body>
+   <p> cat </p> 
+   
+   <p> some intrests i have are music, coding (obviously), old goldsrc games, pokemon and dumb internet browser games </p>
+   
+   <p> i will have a game soon, it's just a wip atm and will probably take like a year </p>
+   
+    </body>    <!---body--->
+    
+    <body> 
+        <h3>links</h3>
+        
+        
+         <a href="https://sites.google.com/nv.ccsd.net/gaem-site/home">game-site:</a> unblocked games made with error duskpin
+         
+         <p> <a href="https://www.khanacademy.org/computer-programming/error-duskpins-home-page/6289237499494400">error duskpin('s homepage):</a> irl fren that gave me the idea </p>
+    </body>    <!---links--->
+    
+    <body>
+        <h6>©2020, 2021, 2022 catoffical (@legowastaken on twitter,         lego#3419 on discord) <p>keep in mind this is a                    functional prototype, there will be more soon and will be          moved to an actual website   </p> </h6>
+    </body>    <!---footing--->
+    
+    
+    
+    <body>
+<!--- 
+    some notes 
+
+    remember to put the "<p>" and "</p>" for the paragraphs
+
+    images can only be from wikipedia, i might as well make a wiki     page just so i can upload like 70 images lol
+
+    if anyone is reading this, go ahead and spin-off if you want,      though i doubt anyone would want to spin off this somewhat         badly oganized code lol
+
+    i might make this an actual website, since it's HTML, ill move     it to a github website
+
+    thats it, thanks for reading my website or messy code
+                                                        ---> 
+
+    </body>    <!---NOTES--->
+</html> <!---main code--->
+<!---coded by catofficial (jack) 2022--->
+<!---this is very frequently updated, i will post the github link here if i decide to make this a website--->
